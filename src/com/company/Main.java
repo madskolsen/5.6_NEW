@@ -1,5 +1,5 @@
 package com.company;
-import java.sql.SQLOutput;
+import java.sql.SQLOutput; // TODO denne import bruges ikke
 import java.util.Scanner;
 public class Main {
 
